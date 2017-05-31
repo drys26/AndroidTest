@@ -1,4 +1,4 @@
-package com.example.nexusbond.sampleapp;
+package com.example.nexusbond.sampleapp.models;
 
 
 public class YoutubeData {

@@ -5,6 +5,8 @@ import android.support.annotation.LayoutRes;
 import android.support.annotation.NonNull;
 import android.widget.ArrayAdapter;
 
+import com.example.nexusbond.sampleapp.models.YoutubeData;
+
 /**
  * Created by nexusbond on 31/05/2017.
  */
